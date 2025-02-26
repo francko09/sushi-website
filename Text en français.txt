@@ -1,0 +1,130 @@
+========== HEADER ==========
+.nav__logo
+Sushi
+
+.nav__link
+Accueil
+
+À Propos
+
+Populaire
+
+Récemment
+
+========== ACCUEIL ==========
+.home__title
+Dégustez de Délicieux
+Sushis
+
+.home__description
+Profitez d'un bon dîner avec les meilleurs plats du 
+restaurant et améliorez votre journey.
+
+.button
+Commander Maintenant
+
+
+========== À PROPOS ==========
+.section__subtitle
+À Propos de Nous
+
+.section__title
+Nous Offrons une 
+Nourriture Saine
+
+.about__description
+La nourriture nous vient de nos proches, qu'ils 
+aient des ailes ou des racines. C'est ainsi que nous 
+considérons la nourriture, elle a aussi une culture. 
+Elle a une histoire qui se transmet de génération 
+en génération.
+
+
+========== POPULAIRE  ==========
+.section__subtitle
+La Meilleure Nourriture
+
+.section__title
+Plats Populaires
+
+.popular__name .popular__description .popular__price
+Onigiri
+Plat Japonais
+10,99 €
+
+Rouleaux de Printemps
+Plat Japonais
+15,99 €
+
+Sushis
+Plat Japonais
+19,99 €
+
+
+========== RÉCEMMENT ==========
+.section__subtitle
+Ajouté Récemment
+
+.section__title
+Sushi Samurai <br>
+Saumon Fromage
+
+.recently__description
+Découvrez ce qui est nouveau. Et ne vous privez pas 
+d'un bon repas, profitez et soyez heureux.
+
+.button
+Commander Maintenant
+
+
+========== NEWSLETTER ==========
+.section__subtitle
+Newsletter
+
+.section__title
+Abonnez-vous pour <br>
+des Offres Spéciales
+
+.newsletter__input
+Entrez votre email
+
+.newsletter__button
+S'abonner
+
+
+========== FOOTER ==========
+.footer__logo
+Sushi
+
+.footer__description
+La nourriture pour le corps ne suffit pas. <br>
+Il faut aussi de la nourriture <br>
+pour l'âme.
+
+.footer__title | .footer__link
+Menu Principal
+À Propos
+Menus
+Offres
+Événements
+
+Informations
+Contact
+Commandes & Retours
+Vidéos
+Réservation
+
+Adresse
+Av. Hacienda 1234 <br>
+Lima 4321, Pérou 
+9h - 23h
+
+Réseaux Sociaux
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+.footer__copy
+&#169; Copyright FranckoTech. Tous droits réservés.
