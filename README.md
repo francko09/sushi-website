@@ -11,4 +11,3 @@
 
 💙 
 
-![preview img](/preview.png)
